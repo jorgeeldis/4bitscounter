@@ -1,0 +1,68 @@
+INFO:sim:172 - Generating IP...
+Resolving generics for 'Contador4bits'...
+Applying external generics to 'Contador4bits'...
+Delivering associated files for 'Contador4bits'...
+Generating implementation netlist for 'Contador4bits'...
+INFO:sim - Pre-processing HDL files for 'Contador4bits'...
+Running synthesis for 'Contador4bits'
+Running ngcbuild...
+Writing VHO instantiation template for 'Contador4bits'...
+Writing VHDL behavioral simulation model for 'Contador4bits'...
+Delivered 3 files into directory C:/MyStuff/College/Universidad Tecnologica de
+Panama/Year
+IV/Microprocesadores/Laboratorios/Contador4bits/ipcore_dir/tmp/_cg/Contador4bits
+Delivered 1 file into directory C:/MyStuff/College/Universidad Tecnologica de
+Panama/Year
+IV/Microprocesadores/Laboratorios/Contador4bits/ipcore_dir/tmp/_cg/Contador4bits
+Generating ASY schematic symbol...
+INFO:sim:949 - Finished generation of ASY schematic symbol.
+Generating SYM schematic symbol for 'Contador4bits'...
+Generating metadata file...
+Generating ISE project file for 'Contador4bits'...
+Generating ISE project...
+XCO file found: Contador4bits.xco
+XMDF file found: Contador4bits_xmdf.tcl
+Adding C:/MyStuff/College/Universidad Tecnologica de Panama/Year
+IV/Microprocesadores/Laboratorios/Contador4bits/ipcore_dir/tmp/_cg/Contador4bits
+.asy -view all -origin_type imported
+Adding C:/MyStuff/College/Universidad Tecnologica de Panama/Year
+IV/Microprocesadores/Laboratorios/Contador4bits/ipcore_dir/tmp/_cg/Contador4bits
+.ngc -view all -origin_type created
+Checking file "C:/MyStuff/College/Universidad Tecnologica de Panama/Year
+IV/Microprocesadores/Laboratorios/Contador4bits/ipcore_dir/tmp/_cg/Contador4bits
+.ngc" for project device match ...
+File "C:/MyStuff/College/Universidad Tecnologica de Panama/Year
+IV/Microprocesadores/Laboratorios/Contador4bits/ipcore_dir/tmp/_cg/Contador4bits
+.ngc" device information matches project device.
+Adding C:/MyStuff/College/Universidad Tecnologica de Panama/Year
+IV/Microprocesadores/Laboratorios/Contador4bits/ipcore_dir/tmp/_cg/Contador4bits
+.sym -view all -origin_type imported
+Adding C:/MyStuff/College/Universidad Tecnologica de Panama/Year
+IV/Microprocesadores/Laboratorios/Contador4bits/ipcore_dir/tmp/_cg/Contador4bits
+.vhd -view all -origin_type created
+INFO:HDLCompiler:1061 - Parsing VHDL file "C:/MyStuff/College/Universidad
+   Tecnologica de Panama/Year
+   IV/Microprocesadores/Laboratorios/Contador4bits/ipcore_dir/tmp/_cg/Contador4b
+   its.vhd" into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding C:/MyStuff/College/Universidad Tecnologica de Panama/Year
+IV/Microprocesadores/Laboratorios/Contador4bits/ipcore_dir/tmp/_cg/Contador4bits
+.vho -view all -origin_type imported
+Adding C:/MyStuff/College/Universidad Tecnologica de Panama/Year
+IV/Microprocesadores/Laboratorios/Contador4bits/ipcore_dir/tmp/_cg/core_resource
+s.txt -view all -origin_type imported
+Adding C:/MyStuff/College/Universidad Tecnologica de Panama/Year
+IV/Microprocesadores/Laboratorios/Contador4bits/ipcore_dir/tmp/_cg/gui_latency.t
+xt -view all -origin_type imported
+INFO:TclTasksC:2116 - The automatic calculation of top has been turned-off.
+   Please set the new top explicitly by running the "project set top" command.
+   To re-calculate the new top automatically, set the "Auto Implementation Top"
+   property to true.
+Top level has been set to "/Contador4bits"
+Generating README file...
+Generating FLIST file...
+INFO:sim:948 - Finished FLIST file generation.
+Launching README viewer...
+Moving files to output directory...
+Finished moving files to output directory
+Wrote CGP file for project 'Contador4bits'.

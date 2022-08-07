@@ -1,0 +1,16 @@
+# Output products list for <Contador4bits>
+Contador4bits.asy
+Contador4bits.gise
+Contador4bits.ngc
+Contador4bits.sym
+Contador4bits.vhd
+Contador4bits.vho
+Contador4bits.xco
+Contador4bits.xise
+Contador4bits\doc\c_counter_binary_v11_0_readme.txt
+Contador4bits\doc\c_counter_binary_v11_0_vinfo.html
+Contador4bits\doc\ds215_counter.pdf
+Contador4bits_flist.txt
+Contador4bits_xmdf.tcl
+core_resources.txt
+gui_latency.txt
